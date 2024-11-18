@@ -1,6 +1,7 @@
 帮我写一段readme
 # 1. 介绍
-基于turf二次封装地图包，支持空间计算查询
+基于turf二次封装地图包，支持空间计算查询  
+`github: https://github.com/lukeSuperCoder/turf-util.git`
 # 2. 使用
 ```
 npm i turf-util

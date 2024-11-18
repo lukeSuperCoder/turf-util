@@ -1,0 +1,32 @@
+{
+  "name": "turf-util",
+  "version": "1.2.1",
+  "description": "基于turfjs二次开发空间计算工具包",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "keywords": [
+    "gis",
+    "turf",
+    "webgis",
+    "tool"
+  ],
+  "dependencies": {
+    "@turf/turf": "^7.1.0",
+    "turf-util": "^1.1.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0"
+  }
+}

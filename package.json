@@ -24,6 +24,9 @@
     "type": "git",
     "url": "git+https://github.com/lukeSuperCoder/turf-util.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "@turf/turf": "^7.1.0",
     "turf-util": "^1.1.4"

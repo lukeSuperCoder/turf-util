@@ -1,6 +1,6 @@
 {
   "name": "turf-util",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "基于turfjs二次开发空间计算工具包",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
